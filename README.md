@@ -13,3 +13,6 @@ Pre-defined and automatically stored search paths
 ![Search results](https://abload.de/img/2018-05-0614_13_26-js7mq3i.png)
 
 After typing a folder name, the result is automatically visible. Just double click on a marked in order to open this folder
+
+# Download program
+[Just click here](https://github.com/julred/jsearchutil/raw/master/JSearchUtil.jar)
